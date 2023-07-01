@@ -1,0 +1,36 @@
+:root {
+    --dark-background-color-page: black;
+    --dark-background-image-horizontal:  linear-gradient(to bottom right, #0088ff, #ff00f7);
+    --dark-background-image-vertical:  linear-gradient(to bottom right, #0088ff, #ff00f7);
+    --dark-background-color: #0c0026aa;
+    --dark-background-color-hover: #210069aa;
+    --dark-button-color: #0c0026;
+    --dark-button-color-hover: #210069;
+    --dark-border-color: #001153;
+    --dark-text-color: white;
+
+    --light-background-color-page: white;
+    --light-background-image-horizontal:  linear-gradient(to bottom right, #0088ff, #ff00f7);
+    --light-background-image-vertical:  linear-gradient(to bottom right, #0088ff, #ff00f7);
+    --light-background-color: #f0f0f054;
+    --light-background-color-hover: #a7a7a7bc;
+    --light-button-color: #f0f0f0;
+    --light-button-color-hover: #a7a7a7;
+    --light-border-color: #002fe9;
+    --light-text-color: black;
+
+    --buttonSpacing: 5px;
+    --scrollbar-width: 10px;
+    --border-width: 2px;
+    --border-radius: 10px;
+    --page-font-family: Comic Sans Ms, Arial;
+    --scale: 1;
+    --scale-vertical: .5;
+    --margin-column-spaceing: 10px;
+    --footer-size: 50px;
+    --header-size: 50px;
+    --font-size-base: 1.2em;
+    --font-size-increment: 0.2em;
+}
+
+
